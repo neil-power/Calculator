@@ -1,0 +1,29 @@
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.MainWindow.resources
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Neil Power\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+N:\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe.config
+N:\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.exe
+N:\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.xml
+N:\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.pdb
+N:\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe
+N:\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.pdb
+N:\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.xml
+N:\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.MainWindow.resources
+N:\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+N:\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.exe
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.xml
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.pdb
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.MainWindow.resources
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache

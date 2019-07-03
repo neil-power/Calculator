@@ -1,0 +1,10 @@
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\bin\Release\Calculator.exe.config
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\bin\Release\Calculator.exe
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\bin\Release\Calculator.pdb
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\bin\Release\Calculator.xml
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Release\Calculator.MainWindow.resources
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Release\Calculator.Resources.resources
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Release\Calculator.vbproj.GenerateResource.Cache
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Release\Calculator.exe
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Release\Calculator.xml
+\\fs1\Pupils\YoE2013\13NPower\Visual Studio 2017\Calculator\Calculator\obj\Release\Calculator.pdb
